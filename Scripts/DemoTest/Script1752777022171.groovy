@@ -30,10 +30,4 @@ import org.openqa.selenium.Keys as Keys
 //test
 //system test
 //ptt
-//demo
-//demo2
-//demo3
-//demo4
-//demo5
-//demo6
 
