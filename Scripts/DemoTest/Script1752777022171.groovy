@@ -27,16 +27,6 @@ import org.openqa.selenium.Keys as Keys
 //hello
 //test abc 123
 //asdf
-//test
-//system test
-//ptt
-//demo
-//demo2
-//dempo3
-//demo4\lll
 
-//mahesh
-//kjljfjlak
-//abcd
 //demo5
 
