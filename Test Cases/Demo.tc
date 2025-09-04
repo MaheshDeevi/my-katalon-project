@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Author : Mahesh Deevi&#xd;
-Description : This is just a demo test</description>
+   <description>test</description>
    <name>Demo</name>
    <tag></tag>
    <comment></comment>
